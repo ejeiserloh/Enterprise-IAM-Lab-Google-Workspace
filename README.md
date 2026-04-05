@@ -1,8 +1,13 @@
-# Enterprise IAM Lab for Google Workspace
+# 📄 Enterprise IAM Lab for Google Workspace
 Simulated IAM environment for workforce identity management This lab demonstrates key identity and access management (IAM) concepts using Google Workspace, including user lifecycle management, role-based access control, MFA, and secure SaaS provisioning.
 
+🏢 Lab Overview
+Company: (using my own personal domain simulated)
+Purpose: To simulate enterprise IAM workflows for employees and internal applications
+Tools: Google Workspace Admin Console
 
-# Users & Groups
+
+# 👥 Users & Groups
 Created user accounts representing typical departments:
 
 | User                     | Role     | Department         |
@@ -15,7 +20,7 @@ Created user accounts representing typical departments:
 ![Alt Text](/screenshots/users.png)
 ![Alt Text](/screenshots/groups.png)
 
-# Access Controls & Policies
+# 🔐 Access Controls & Policies
 Implemented enterprise-level access management:
 
 * MFA Enforcement:
@@ -36,7 +41,7 @@ Segmented departments using OUs
 ![Alt Text](/screenshots/passwordpolicy.png)
 Thankfully, Google by default uses a strong password policy 
 
-# User Lifecycle Management
+# ⚙️ User Lifecycle Management
 Simulated provisioning and deprovisioning workflows:
 
 Provisioning: New user added → assigned to groups → granted access to apps  
@@ -45,14 +50,14 @@ Deprovisioning: User removed → access revoked automatically
 ![Alt Text](/screenshots/provisioning.png) 
 ![Alt Text](/screenshots/deprovisioning.png)
 
-# App Integrations
+# 🔗 App Integrations
 * Integrated Google Workspace apps (Gmail, Drive, Calendar) into group-based permissions  
 
 * Configured access policies aligned with department roles
 ![Alt Text](/screenshots/app1.png) 
 ![Alt Text](/screenshots/app2.png)
 
-# Documentation & Learnings
+# 📝 Documentation & Learnings
 * Documented IAM workflows for onboarding/offboarding
 * Applied least privilege principle to all users
 * Simulated enterprise-grade SaaS security controls

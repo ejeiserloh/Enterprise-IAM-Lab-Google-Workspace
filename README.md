@@ -18,13 +18,13 @@ Created user accounts representing typical departments:
 # Access Controls & Policies
 Implemented enterprise-level access management:
 
-MFA Enforcement:
+* MFA Enforcement:
 Required for all users  
 
-Role-Based Access Control (RBAC):
+* Role-Based Access Control (RBAC):
 Users assigned to groups with predefined permissions  
 
-Organizational Units (OUs):
+* Organizational Units (OUs):
 Segmented departments to apply specific policies
 
 ![Alt Text](/screenshots/mfa.png)
@@ -53,7 +53,7 @@ Configured access policies aligned with department roles
 ![Alt Text](/screenshots/app2.png)
 
 # Documentation & Learnings
-*Documented IAM workflows for onboarding/offboarding
-*Applied least privilege principle to all users
-*Simulated enterprise-grade SaaS security controls
-*Gained hands-on experience with identity lifecycle, MFA, and RBAC
+* Documented IAM workflows for onboarding/offboarding
+* Applied least privilege principle to all users
+* Simulated enterprise-grade SaaS security controls
+* Gained hands-on experience with identity lifecycle, MFA, and RBAC

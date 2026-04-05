@@ -13,3 +13,5 @@ Created user accounts representing typical departments:
 | [sales@undefinedthegod.com] | Employee | General Staff |
 
 ![Alt Text](/screenshots/users.png)
+
+![Alt Text](/screenshots/groups.png)

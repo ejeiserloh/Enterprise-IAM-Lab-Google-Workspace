@@ -13,5 +13,19 @@ Created user accounts representing typical departments:
 | [sales@undefinedthegod.com] | Employee | General Staff |
 
 ![Alt Text](/screenshots/users.png)
-
 ![Alt Text](/screenshots/groups.png)
+
+# Access Controls & Policies
+
+Implemented enterprise-level access management:
+
+MFA Enforcement: Required for all users
+Role-Based Access Control (RBAC): Users assigned to groups with predefined permissions
+Organizational Units (OUs): Segmented departments to apply specific policies
+
+![Alt Text](/screenshots/mfa.png)
+Enforcing all users to use MFA and avoiding text or phone call methods for added security
+![Alt Text](/screenshots/groupaccess.png)
+Using these access settings to practice Separation of duties
+![Alt Text](/screenshots/organizationalunits.png)
+Segmented departments using OUs 

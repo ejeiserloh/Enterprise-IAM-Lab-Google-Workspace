@@ -42,7 +42,5 @@ Simulated provisioning and deprovisioning workflows:
 Provisioning: New user added → assigned to groups → granted access to apps  
 
 Deprovisioning: User removed → access revoked automatically
-![Alt Text](/screenshots/provisioning.png)
-Segmented departments using OUs 
+![Alt Text](/screenshots/provisioning.png) 
 ![Alt Text](/screenshots/deprovisioning.png)
-Thankfully, Google by default uses a strong password policy 

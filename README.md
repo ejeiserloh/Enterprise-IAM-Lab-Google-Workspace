@@ -51,3 +51,9 @@ Integrated Google Workspace apps (Gmail, Drive, Calendar) into group-based permi
 Configured access policies aligned with department roles
 ![Alt Text](/screenshots/app1.png) 
 ![Alt Text](/screenshots/app2.png)
+
+# Documentation & Learnings
+*Documented IAM workflows for onboarding/offboarding
+*Applied least privilege principle to all users
+*Simulated enterprise-grade SaaS security controls
+*Gained hands-on experience with identity lifecycle, MFA, and RBAC

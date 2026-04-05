@@ -46,9 +46,9 @@ Deprovisioning: User removed → access revoked automatically
 ![Alt Text](/screenshots/deprovisioning.png)
 
 # App Integrations
-Integrated Google Workspace apps (Gmail, Drive, Calendar) into group-based permissions  
+* Integrated Google Workspace apps (Gmail, Drive, Calendar) into group-based permissions  
 
-Configured access policies aligned with department roles
+* Configured access policies aligned with department roles
 ![Alt Text](/screenshots/app1.png) 
 ![Alt Text](/screenshots/app2.png)
 

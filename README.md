@@ -7,10 +7,10 @@ Created user accounts representing typical departments:
 
 | User                     | Role     | Department         |
 | -------------------------| -------- | ------------------ |
-| [hr@undefinedthegod.com] | HR Admin | HR |
-| [it@undefinedthegod.com] | IT Admin | IT |
-| [finance@undefinedthegod.com] | Employee | General Staff |
-| [sales@undefinedthegod.com] | Employee | General Staff |
+| [jane@undefinedthegod.com] | HR Admin | HR |
+| [evan@undefinedthegod.com] | IT Admin | IT |
+| [john@undefinedthegod.com] | Employee | General Staff |
+| [nick@undefinedthegod.com] | Employee | General Staff |
 
 ![Alt Text](/screenshots/users.png)
 ![Alt Text](/screenshots/groups.png)

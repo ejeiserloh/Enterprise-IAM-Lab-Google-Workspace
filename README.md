@@ -12,4 +12,4 @@ Created user accounts representing typical departments:
 | [finance@undefinedthegod.com] | Employee | General Staff |
 | [sales@undefinedthegod.com] | Employee | General Staff |
 
-![Alt Text](Enterprise-IAM-Lab-Google-Workspace/screenshots/users.png)
+![Alt Text](/screenshots/users.png)

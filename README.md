@@ -20,10 +20,14 @@ Created user accounts representing typical departments:
 Implemented enterprise-level access management:
 
 MFA Enforcement: 
-Required for all users
-Role-Based Access Control (RBAC): 
+Required for all users  
+
+Role-Based Access Control (RBAC):  
+
 Users assigned to groups with predefined permissions
-Organizational Units (OUs): 
+
+Organizational Units (OUs):  
+
 Segmented departments to apply specific policies
 
 ![Alt Text](/screenshots/mfa.png)

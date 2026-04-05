@@ -19,9 +19,12 @@ Created user accounts representing typical departments:
 
 Implemented enterprise-level access management:
 
-MFA Enforcement: Required for all users
-Role-Based Access Control (RBAC): Users assigned to groups with predefined permissions
-Organizational Units (OUs): Segmented departments to apply specific policies
+# MFA Enforcement: 
+Required for all users
+# Role-Based Access Control (RBAC): 
+Users assigned to groups with predefined permissions
+# Organizational Units (OUs): 
+Segmented departments to apply specific policies
 
 ![Alt Text](/screenshots/mfa.png)
 Enforcing all users to use MFA and avoiding text or phone call methods for added security
@@ -29,3 +32,5 @@ Enforcing all users to use MFA and avoiding text or phone call methods for added
 Using these access settings to practice Separation of duties
 ![Alt Text](/screenshots/organizationalunits.png)
 Segmented departments using OUs 
+![Alt Text](/screenshots/passwordpolicy.png)
+Thankfully Google by default uses a strong password policy 
